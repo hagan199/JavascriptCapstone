@@ -34,12 +34,10 @@
 
 </a>
 
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-- **[Good and Simple Design]**
- **[UX/UI accessibility ]**
- **[Responsive layout]**
+-  User can Like a movie
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
