@@ -8,7 +8,7 @@ const renderMovies = (movies, likes) => {
   const moviesContainer = document.querySelector('.movies-container');
   movies.forEach(
     ({
-      id, name, image, language, description,
+      id, name, image, language,
     }, index) => {
       const movieCard = `
         <div class="container" id=${id}>
