@@ -15,12 +15,10 @@ const renderMovies = (movies, likes) => {
           <img src=${image.medium}>
           <span>${name}</span>
           <span>Language: ${language}</span>
-          <span> Description: ${description}</span>
           <button class="testing">
             <i class="fa-solid fa-heart"></i>
           </button>
           <span class="likes">${likes[index].likes}</span>
-          <button id=${id} class="comment">Comments</button>
         </div>`;
       moviesContainer.innerHTML += movieCard;
     },
