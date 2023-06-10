@@ -60,7 +60,7 @@ Clone this repository to your desired folder:
 - clone the project using by running the following command :
 
 `git clone`
-`https://github.com/hagan199/Leaderboard.git`
+`https://github.com/hagan199/JavascriptCapstone.git`
 
 ###  Install
 
