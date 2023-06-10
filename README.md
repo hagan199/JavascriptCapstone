@@ -22,10 +22,10 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 [Leaderboard: Hitting the API ] <a name="about-project"></a>
 
-** Leaderboard** is a simple website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
+# 📖  MOVIE GALLERY <a name="about-project"></a>
 
+>This is my second microverse project I have built it with HTML and CSS.
 
 ## 🛠️ Built With <a name="built-with">
 ### Tech Stack <a name="tech-stack"></a>
@@ -106,7 +106,7 @@ npx eslint .
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/hagan199/Awesome_book_ES6/issues).
+Feel free to check the [issues page](https://github.com/hagan199/JavascriptCapstone/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,6 +130,7 @@ I would like to thank Microverse for the opportunity
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/hagan199/Awesome_book_ES6/tree/develop/MIT.md) licensed.
+This project is [MIT](https://github.com/hagan199/JavascriptCapstone/issues).
+/tree/develop/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
